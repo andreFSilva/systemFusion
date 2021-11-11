@@ -138,3 +138,13 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+# Pycharm project
+.idea/
+
+# Viual Code Studio project
+.vscode/
+
+# Django projeto
+.templates/
+
+.Scripts/
